@@ -50,6 +50,3 @@ Analysis source: the PostgreSQL analytical views queried by the notebooks in the
 4. Treat December 2016 as a partial-period data point when presenting monthly trends.
 5. Use the cohort heatmap to identify acquisition months with stronger repeat-purchase behavior.
 
-## Reproducibility
-
-Run the notebooks after configuring `POSTGRES_USER`, `POSTGRES_PASSWORD`, `POSTGRES_HOST`, `POSTGRES_PORT`, and `POSTGRES_DB`. The analysis exports derived datasets to `data/processed/` and does not reload raw CSV files.
