@@ -7,7 +7,6 @@
       Turning e-commerce transaction data into revenue insights and customer retention strategies.
     </p>
   </div>
-
   <div class="project-tags">
     <span>Power BI</span>
     <span>PostgreSQL</span>
